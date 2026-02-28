@@ -2,7 +2,7 @@
 
 Software Engineer currently based in NYC. Mainly a TypeScript and Python dev, been working in the AI startup space.
 
----
+
 
 ## Highlighted Projects
 
@@ -16,7 +16,7 @@ Things I actively maintain that people found useful (or at least think they shou
 
 - **[react-electron-template](https://github.com/jagrat7/react-electron-template)** — Starter template for building Electron apps with React | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
----
+
 
 ## Honorable mentions
 
