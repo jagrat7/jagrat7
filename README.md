@@ -17,14 +17,17 @@ Things I actively maintain that people found useful (or at least think they shou
 
 
 
-### Honorable mentions
+<details>
+<summary><b>Honorable mentions</b> — <sub>old, unfinished, or built in a rush, but the ideas are still interesting</sub></summary>
 
-Most of these are old, unfinished, or built in a short time, but the ideas behind them are still interesting:
+<br>
 
-- **[AdaptiveStreetLights](https://github.com/jagrat7/AdaptiveStreetLights)** — Smart city street lighting system design ([LinkedIn article](https://www.linkedin.com/pulse/engineering-smart-cities-street-lighting-system-jagrat-rao-km4df/)) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-- **[ClaimsHawkAI](https://github.com/jagrat7/ClaimsHawkAI)** — AI app that analyzes politician and world leader speeches to extract claims they have made and how many times they have made them | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
-- **[sign2text](https://github.com/jagrat7/sign2text)** — Virtual rooms with real-time ASL to English translation, think Zoom but for sign language | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-<!-- - **[TMS](https://github.com/jagrat7/TMS)** — Trucking management system template with authentication | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
- -->
-- **[YES](https://github.com/jagrat7/YES)** — Hackathon app that gamifies stepping out of your comfort zone with tiered challenges and real rewards | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-- **[car-part-selector-ai-coding-challenge](https://github.com/jagrat7/car-part-selector-ai-coding-challenge)** — A take-home coding challenge for an interview that was data extraction exercise to extract car parts from insurance guideline using AI | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+| Project | Description | Tech |
+|---------|-------------|------|
+| [AdaptiveStreetLights](https://github.com/jagrat7/AdaptiveStreetLights) | Smart city street lighting system design ([article](https://www.linkedin.com/pulse/engineering-smart-cities-street-lighting-system-jagrat-rao-km4df/)) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) |
+| [ClaimsHawkAI](https://github.com/jagrat7/ClaimsHawkAI) | AI app that extracts and tracks claims from politician speeches | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| [sign2text](https://github.com/jagrat7/sign2text) | Virtual rooms with real-time ASL to English translation, think Zoom but for sign language | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| [YES](https://github.com/jagrat7/YES) | Hackathon app that gamifies stepping out of your comfort zone with tiered challenges | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) |
+| [car-part-selector-ai](https://github.com/jagrat7/car-part-selector-ai-coding-challenge) | Take-home challenge — extract car parts from insurance guidelines using AI | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+
+</details>
