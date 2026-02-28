@@ -8,17 +8,16 @@ Software Engineer currently based in NYC. Mainly a TypeScript and Python dev, be
 
 Things I actively maintain that people found useful (or at least think they should find useful 🥺👉👈):
 
-- **[linux-wallpaper-engine](https://github.com/jagrat7/linux-wallpaper-engine)** — Desktop app to browse, preview, and apply Steam Wallpaper Engine wallpapers on Linux | ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![GitHub stars](https://img.shields.io/github/stars/jagrat7/linux-wallpaper-engine?style=flat) ![GitHub Downloads](https://img.shields.io/github/downloads/jagrat7/linux-wallpaper-engine/total?style=flat&label=downloads)
-
-- **[AudioVisualizer](https://github.com/jagrat7/AudioVisaulizer)** — React audio visualizer component with Web Audio API for chatbots and voice apps | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![npm downloads](https://img.shields.io/npm/dm/audvis?style=flat&label=npm%20downloads/mo) ![npm](https://img.shields.io/npm/v/audvis?style=flat&label=audvis)
-
-- **[job-app-bot](https://github.com/jagrat7/job-app-bot)** — AI-powered LinkedIn job application bot that autofills applications based on your resume | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-- **[react-electron-template](https://github.com/jagrat7/react-electron-template)** — Starter template for building Electron apps with React | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
+| Project | Description | Tech & Stats |
+|---------|-------------|--------------|
+| **[linux-wallpaper-engine](https://github.com/jagrat7/linux-wallpaper-engine)** | Desktop app to browse, preview, and apply Steam Wallpaper Engine wallpapers on Linux | ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![GitHub stars](https://img.shields.io/github/stars/jagrat7/linux-wallpaper-engine?style=flat) ![GitHub Downloads](https://img.shields.io/github/downloads/jagrat7/linux-wallpaper-engine/total?style=flat&label=downloads) |
+| **[AudioVisualizer](https://github.com/jagrat7/AudioVisaulizer)** | React audio visualizer component with Web Audio API for chatbots and voice apps | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![npm downloads](https://img.shields.io/npm/dm/audvis?style=flat&label=npm%20downloads/mo) ![npm](https://img.shields.io/npm/v/audvis?style=flat&label=audvis) |
+| **[job-app-bot](https://github.com/jagrat7/job-app-bot)** | AI-powered LinkedIn job application bot that autofills applications based on your resume | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **[react-electron-template](https://github.com/jagrat7/react-electron-template)** | Starter template for building Electron apps with React | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
 
 
-## Honorable mentions
+
+### Honorable mentions
 
 Most of these are old, unfinished, or built in a short time, but the ideas behind them are still interesting:
 
