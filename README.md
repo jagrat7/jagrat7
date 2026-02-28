@@ -18,7 +18,7 @@ Things I actively maintain that people found useful (or at least think they shou
 
 
 <details>
-<summary><b>Honorable mentions</b> — <sub>old, unfinished, or built in a rush, but the ideas are still interesting</sub></summary>
+<summary><b>Honorable mentions</b> — old, unfinished, or built in a rush, but the ideas are still interesting</summary>
 
 <br>
 
