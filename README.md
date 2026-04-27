@@ -7,7 +7,7 @@ Stuff that I am building/learning/experimenting with:
 - go 
 - durable ai workflows
 - search
-
+- ai dev tools
 ## Highlighted Projects
 
 Things I actively maintain that people found useful (or at least think they should find useful 🥺👉👈):
