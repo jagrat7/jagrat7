@@ -3,7 +3,7 @@
 Software Engineer currently based in NYC. Mainly a TypeScript and Python dev, been working in the AI startup space.
 
 Stuff that I am building/learning/experimenting with:
-- broswer automations (stagehand, broswer-use)
+- broswer automations (stagehand, browser-use)
 - go 
 - durable ai workflows
 - search
