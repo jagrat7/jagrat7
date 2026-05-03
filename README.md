@@ -30,7 +30,7 @@ Stuff that I am building/learning/experimenting with:
   </tr>
 </table>
 
-### Highlighted Projects
+## Highlighted Projects
 
 Things I actively maintain that people found useful (or at least think they should find useful 🥺👉👈):
 
