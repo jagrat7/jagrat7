@@ -4,10 +4,32 @@ Software Engineer currently based in NYC. Mainly a TypeScript and Python dev, be
 
 Stuff that I am building/learning/experimenting with:
 - broswer automations (stagehand, browser-use)
-- go 
+- go
 - durable ai workflows
 - search
 - ai dev tools
+
+## Stats
+<table cellpadding="0" cellspacing="0">
+  <tr>
+      <td width="50%" align="center">
+      <img width="100%" alt="Most used languages" src="https://github-readme-stats-delta-henna-50.vercel.app/api/top-langs?username=jagrat7&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=System-on-chip-desgin-projects,Verilog-and-VHDL-projects&hide=html,css,nix,EJS,jupyter%20notebook">
+    </td>
+    <td width="45%" align="center">
+      <img width="100%" alt="Boot.dev profile stats" src="https://api.boot.dev/v1/users/public/d5249900-071c-4ee7-b7ac-7fa90ffea06e/thumbnail">
+    </td>
+
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jagrat7&theme=tokyonight&hide_border=true">
+    </td>
+    <td width="50%" align="center">
+          <img width="100%" alt="GitHub trophies" src="https://github-profile-trophy.screw-hand.vercel.app/?username=jagrat7&theme=tokyonight&title=LongTimeUser,Stars,Commits&column=3&margin-w=0&margin-h=0">
+    </td>
+  </tr>
+</table>
+
 ## Highlighted Projects
 
 Things I actively maintain that people found useful (or at least think they should find useful 🥺👉👈):
