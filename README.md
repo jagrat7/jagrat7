@@ -32,7 +32,6 @@ Stuff that I am building/learning/experimenting with:
 
 ## Highlighted Projects
 
-Things I actively maintain that people found useful (or at least think they should find useful 🥺👉👈):
 
 | Project | Description | Tech & Stats |
 |---------|-------------|--------------|
