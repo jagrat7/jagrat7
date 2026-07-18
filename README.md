@@ -4,10 +4,10 @@ Software Engineer currently based in NYC. Mainly a TypeScript and Python dev, be
 
 Stuff that I am building/learning/experimenting with:
 - browser automations (stagehand, browser-use)
-- go
 - durable ai workflows
 - search
 - ai dev tools
+- non profit app
 
 ## Stats
 <table cellpadding="0" cellspacing="0">
