@@ -1,13 +1,15 @@
 # Hey, I'm Jagrat 👋
 
-Software Engineer currently based in NYC. Mainly a TypeScript and Python dev, been working in the AI startup space.
+Software Engineer currently based in NYC. I have mostly worked as a full-stack dev (TypeScript and Python). I have built a few OSS projects and also contribute to some.
 
 Stuff that I am building/learning/experimenting with:
+- omarchy plugins
+- omarchy themes
 - browser automations (stagehand, browser-use)
 - durable ai workflows
 - search
 - ai dev tools
-- non profit app
+
 
 ## Stats
 <table cellpadding="0" cellspacing="0">
