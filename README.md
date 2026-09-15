@@ -10,6 +10,7 @@ Stuff that I am building/learning/experimenting with:
 - search
 - ai dev tools
 
+<!-- 
 
 ## Stats
 <table cellpadding="0" cellspacing="0">
@@ -31,7 +32,7 @@ Stuff that I am building/learning/experimenting with:
     </td>
   </tr>
 </table>
-
+-->
 ## Highlighted Projects
 
 
