@@ -10,10 +10,11 @@ Stuff that I am building/learning/experimenting with:
 - search
 - ai dev tools
 
-<!-- 
+
 
 ## Stats
 <table cellpadding="0" cellspacing="0">
+  <!-- 
   <tr>
       <td width="50%" align="center">
       <img width="100%" alt="Most used languages" src="https://github-readme-stats-delta-henna-50.vercel.app/api/top-langs?username=jagrat7&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=System-on-chip-desgin-projects,Verilog-and-VHDL-projects&hide=html,css,nix,EJS,jupyter%20notebook">
@@ -23,6 +24,7 @@ Stuff that I am building/learning/experimenting with:
     </td>
 
   </tr>
+  -->
   <tr>
     <td width="50%" align="center">
       <img width="100%" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jagrat7&theme=tokyonight&hide_border=true">
@@ -32,7 +34,7 @@ Stuff that I am building/learning/experimenting with:
     </td>
   </tr>
 </table>
--->
+
 ## Highlighted Projects
 
 
