@@ -42,7 +42,7 @@ Software Engineer currently based in NYC. I have mostly worked as a full-stack d
 ### 🧪 Other projects
 - **[Adaptive-StreetLights](https://github.com/jagrat7/AdaptiveStreetLights)**: street lights that predict pedestrian density hour-by-hour (MAPE-K on AWS) and dim ahead of time to save energy
 
-**Currently exploring:** Omarchy plugins, Omarchy themes, browser automation (Stagehand, browser-use), durable AI workflows, search, AI dev tools
+**Currently exploring:** Omarchy plugins & themes, browser automation (Stagehand, browser-use), durable AI workflows, search, AI dev tools
 
 <details>
 <summary><b>Honorable mentions</b></summary>
