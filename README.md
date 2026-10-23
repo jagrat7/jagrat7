@@ -27,19 +27,19 @@ Software Engineer currently based in NYC. I have mostly worked as a full-stack d
 </table>
  -->
 
-### 🐧 Linux
+### Linux customizations 
 - **[Infrared Snooze Theme](https://github.com/jagrat7/omarchy-infrared-snooze-theme)**: warm, dimmed dark Omarchy theme for winding down before bed. No blue tones, just reds and embers
 - **[omarchy-view](https://github.com/jagrat7/omarchy-view)**: workspace overview with live window previews for the Omarchy shell
 - **[omarchy-tts-local](https://github.com/jagrat7/omarchy-tts)**: Omarchy plugin to highlight anything, press a key, hear it. Pluggable local and cloud voices
 
-### 🖥️ Desktop apps
-- **[linux-wallpaper-engine](https://github.com/jagrat7/linux-wallpaper-engine)** ![GitHub stars](https://img.shields.io/github/stars/jagrat7/linux-wallpaper-engine?style=flat-square&label=%E2%AD%90&labelColor=555&color=555) ![GitHub downloads](https://img.shields.io/github/downloads/jagrat7/linux-wallpaper-engine/total?style=flat-square&label=%E2%AC%87&labelColor=555&color=555): browse, preview, and apply Steam Wallpaper Engine wallpapers on Linux
+### Desktop apps
+- **[linux-wallpaper-engine](https://github.com/jagrat7/linux-wallpaper-engine)** ![GitHub stars](https://img.shields.io/github/stars/jagrat7/linux-wallpaper-engine?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=21262d) ![GitHub downloads](https://img.shields.io/github/downloads/jagrat7/linux-wallpaper-engine/total?style=flat-square&label=%E2%AC%87&labelColor=21262d&color=21262d): browse, preview, and apply Steam Wallpaper Engine wallpapers on Linux
 
-### 🌐 Web apps
+### Web apps
 - **[ui](https://github.com/jagrat7/ui)**: a shadcn registry of React components I struggled to find elsewhere ([ui.jr7.dev](https://ui.jr7.dev))
 - **[sign2text](https://github.com/jagrat7/sign2text)**: virtual rooms with real-time ASL to English translation, think Zoom but for sign language
 
-### 🧪 Other projects
+### Other projects
 - **[Adaptive-StreetLights](https://github.com/jagrat7/AdaptiveStreetLights)**: street lights that predict pedestrian density hour-by-hour (MAPE-K on AWS) and dim ahead of time to save energy
 
 **Currently exploring:** Omarchy plugins & themes, browser automation (Stagehand, browser-use), durable AI workflows, search, AI dev tools
