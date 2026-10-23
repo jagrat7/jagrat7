@@ -33,7 +33,7 @@ Software Engineer currently based in NYC. I have mostly worked as a full-stack d
 - **[omarchy-tts-local](https://github.com/jagrat7/omarchy-tts)**: Omarchy plugin to highlight anything, press a key, hear it. Pluggable local and cloud voices
 
 ### 🖥️ Desktop apps
-- **[linux-wallpaper-engine](https://github.com/jagrat7/linux-wallpaper-engine)**: browse, preview, and apply Steam Wallpaper Engine wallpapers on Linux ![GitHub stars](https://img.shields.io/github/stars/jagrat7/linux-wallpaper-engine?style=flat) ![GitHub downloads](https://img.shields.io/github/downloads/jagrat7/linux-wallpaper-engine/total?style=flat&label=downloads)
+- **[linux-wallpaper-engine](https://github.com/jagrat7/linux-wallpaper-engine)** ![GitHub stars](https://img.shields.io/github/stars/jagrat7/linux-wallpaper-engine?style=flat-square&label=%E2%AD%90&labelColor=555&color=555) ![GitHub downloads](https://img.shields.io/github/downloads/jagrat7/linux-wallpaper-engine/total?style=flat-square&label=%E2%AC%87&labelColor=555&color=555): browse, preview, and apply Steam Wallpaper Engine wallpapers on Linux
 
 ### 🌐 Web apps
 - **[ui](https://github.com/jagrat7/ui)**: a shadcn registry of React components I struggled to find elsewhere ([ui.jr7.dev](https://ui.jr7.dev))
