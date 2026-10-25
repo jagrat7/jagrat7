@@ -27,10 +27,6 @@ Software Engineer currently based in NYC. I have mostly worked as a full-stack d
 </table>
  -->
 
-### Linux customizations 
-- **[Infrared Snooze Theme](https://github.com/jagrat7/omarchy-infrared-snooze-theme)**: warm, dimmed dark Omarchy theme for winding down before bed. No blue tones, just reds and embers
-- **[omarchy-view](https://github.com/jagrat7/omarchy-view)**: workspace overview with live window previews for the Omarchy shell
-- **[omarchy-tts-local](https://github.com/jagrat7/omarchy-tts)**: Omarchy plugin to highlight anything, press a key, hear it. Pluggable local and cloud voices
 
 ### Desktop apps
 -  **[linux-wallpaper-engine](https://github.com/jagrat7/linux-wallpaper-engine)**: browse, preview, and apply Steam Wallpaper Engine wallpapers on Linux.
@@ -39,6 +35,10 @@ Software Engineer currently based in NYC. I have mostly worked as a full-stack d
 ### Web apps
 - **[ui](https://github.com/jagrat7/ui)**: a shadcn registry of React components I struggled to find elsewhere ([ui.jr7.dev](https://ui.jr7.dev))
 - **[sign2text](https://github.com/jagrat7/sign2text)**: virtual rooms with real-time ASL to English translation, think Zoom but for sign language
+### Linux customizations 
+- **[Infrared Snooze Theme](https://github.com/jagrat7/omarchy-infrared-snooze-theme)**: warm, dimmed dark Omarchy theme for winding down before bed. No blue tones, just reds and embers
+- **[omarchy-view](https://github.com/jagrat7/omarchy-view)**: workspace overview with live window previews for the Omarchy shell
+- **[omarchy-tts-local](https://github.com/jagrat7/omarchy-tts)**: Omarchy plugin to highlight anything, press a key, hear it. Pluggable local and cloud voices
 
 ### Other projects
 - **[Adaptive-StreetLights](https://github.com/jagrat7/AdaptiveStreetLights)**: street lights that predict pedestrian density hour-by-hour (MAPE-K on AWS) and dim ahead of time to save energy
