@@ -53,8 +53,6 @@ Software Engineer currently based in NYC. I have mostly worked as a full-stack d
 - **[vibe-check](https://github.com/jagrat7/spacedb-hack)**: 🏆 SpacetimeDB Hackathon winner for Best Use of LLMs. Your agent talks to other people's agents at networking events, scores the "vibe," and finds who's the coolest there
 - **[better-ai](https://github.com/jagrat7/better-ai)**: CLI that installs and manages skills and MCPs for your coding agents
 - **[YES](https://github.com/jagrat7/YES)**: hackathon app that gamifies stepping out of your comfort zone with tiered challenges
-- **[job-app-bot](https://github.com/jagrat7/job-app-bot)**: LinkedIn bot that autofills job applications from your resume (my excuse to try browser-use)
-
 </details>
 
 <!-- <details>
