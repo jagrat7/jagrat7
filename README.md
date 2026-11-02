@@ -33,6 +33,7 @@ Software Engineer currently based in NYC. I have mostly worked as a full-stack d
 ![GitHub stars](https://img.shields.io/github/stars/jagrat7/linux-wallpaper-engine?style=flat-square&label=%E2%AD%90&labelColor=21262d&color=21262d) ![GitHub downloads](https://img.shields.io/github/downloads/jagrat7/linux-wallpaper-engine/total?style=flat-square&label=%E2%AC%87&labelColor=21262d&color=21262d)
 
 ### Web apps
+- **[llm-graphs](https://llm-graphs.jr7.dev)**: clean graphs for LLMs
 - **[ui](https://ui.jr7.dev)**: a registry of UI components I struggled to find elsewhere
 - **[sign2text](https://github.com/jagrat7/sign2text)**: virtual rooms with real-time ASL to English translation, think Zoom but for sign language
 ### Linux customizations 
